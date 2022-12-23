@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Champ-Wei
 - 👀 I’m interested in programming and boxing
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on landing first job in software engineering
+- 💞️ I’m looking to land my first job in software engineering
 - 📫 How to reach me hongbowei.bruce@gmail.com
 
 <!---
