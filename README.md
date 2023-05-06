@@ -1,9 +1,9 @@
 ![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
 
 - 👋 Hi, I’m @Hongbo-Wei
-- 👀 I’m interested in programming and boxing
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to land my first job in software engineering
+- 👀 I’m interested in Computer Science, Programming and Boxing
+- 🌱 I’m currently learning selenium automation web scraping and back-end development
+- 💞️ I strive to land my first software engineering job in the Tech industry
 - 📫 How to reach me hongbowei.bruce@gmail.com
 
 ![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
