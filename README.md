@@ -1,4 +1,4 @@
-![Network](https://user-images.githubusercontent.com/112866063/236608927-5570cfd7-e8de-4da2-a883-5dd3b65a9883.jpg)
+![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
 
 - 👋 Hi, I’m @Champ-Wei
 - 👀 I’m interested in programming and boxing
