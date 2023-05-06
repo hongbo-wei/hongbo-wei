@@ -1,6 +1,6 @@
 ![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
 
-- 👋 Hi, I’m @Champ-Wei
+- 👋 Hi, I’m @Hongbo-Wei
 - 👀 I’m interested in programming and boxing
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to land my first job in software engineering
