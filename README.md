@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated and perseverant lifelong learner
 - 👀 I’m interested in Computer Science💻, Programming👨‍💻, and Boxing🥊
 - 🌱 I’m currently learning selenium automation on web scraping and back-end development
-- 💞️ I strive for landing my first software engineering job in the Tech industry (the UK, USA or UAE)
+- 💞️ I strive to land my first software engineering job in the Tech industry (in the UK, USA or UAE)
 - 🎮 The game I made on Scratch https://scratch.mit.edu/projects/839093065/
 - 📫 How to reach me hongbowei.bruce@gmail.com
 
