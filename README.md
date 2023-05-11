@@ -1,6 +1,6 @@
 ![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
 
-- 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated and perseverant lifelong learner
+- 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 👀 I’m interested in Computer Science 💻, Programming 👨‍💻, and Boxing 🥊
 - 🌱 I’m currently learning back-end development and selenium automation on web scraping 🐍
 - 💞️ I strive to land my first software engineering job in the Tech industry (in the UK, USA or UAE)
