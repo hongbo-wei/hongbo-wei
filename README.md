@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 👀 I’m interested in Computer Science 0️⃣ 1️⃣ 💻, Programming 👨‍💻, and Boxing 🥊
-- 🌱 I’m currently undertaking Web App developent and CRON automation on Web Scraping 🐍
+- 🌱 I’m currently undertaking Web App development and CRON automation on Web Scraping 🐍
 - ✊ I strive to land my second software engineering job in the Tech industry (in the UK 🇬🇧, USA 🇺🇸 or UAE 🇦🇪)
 - 🎮 The game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
 - 📫 How to reach me: hongbowei.bruce@gmail.com | LinkedIn: Hongbo Wei https://www.linkedin.com/in/hongbo-wei/
