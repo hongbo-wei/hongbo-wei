@@ -1,6 +1,7 @@
 ![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
+- 😃 My personal website: https://sites.google.com/view/hongbo-wei
 - 👀 I’m interested in Computer Science 0️⃣ 1️⃣ 💻, Programming 👨‍💻, and Boxing 🥊
 - 🌱 I’m currently undertaking Web App development and CRON automation on Web Scraping 🐍
 - ✊ I strive to land my second software engineering job in the Tech industry (in the UK 🇬🇧, USA 🇺🇸 or UAE 🇦🇪)
