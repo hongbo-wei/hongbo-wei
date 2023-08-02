@@ -5,6 +5,10 @@
 - 🌱 I’m currently developing Web Apps, and Data Visualization with Web Scraping 🐍
 - ✊ I strive to land a software engineering job in the UAE 🇦🇪 or UK 🇬🇧
 - 😃 My personal website: https://sites.google.com/view/hongbo-wei
+- 🧰 Skills: 
+  Back-end: C, C++, Python (Django, Flask, Machine Learning, and Selenium), MySQL, SQL, SQLite.
+  Front-end: HTML, CSS, JavaScript (React)
+  Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - 🎮 The game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
 - 📫 Email: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
 
