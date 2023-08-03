@@ -29,10 +29,7 @@
 - 🌱 I’m currently developing Web Apps, and Data Visualization with Web Scraping 🐍
 - ✊ I strive to land a software engineering job in the UAE 🇦🇪 or UK 🇬🇧
 - 😃 My personal website: https://sites.google.com/view/hongbo-wei
-- 🧰 Skills: {
-- Back-end: C, C++, Python (Django, Flask, Machine Learning, and Selenium), MySQL, SQL, SQLite.
-- Front-end: HTML, CSS, JavaScript (React)
-- Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML) }
+- 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - 🎮 The game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
 - 📫 Email: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
 
@@ -40,7 +37,8 @@
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
-<div align="center"> 
+<div align="center">
+    <code><a href="http://cppreference.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
