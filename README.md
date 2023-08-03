@@ -1,4 +1,4 @@
-![Network copy](https://user-images.githubusercontent.com/112866063/236609596-266ae241-7272-433c-8d7b-bd3d7990e490.jpg)
+![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/assets/112866063/8435ed26-b571-48f1-b237-e4406e561d95)
 
 <!-- The social media badges -->
 <div align="center">
