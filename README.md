@@ -33,8 +33,8 @@
 - 🎮 The game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
 - 📫 Email: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
 
--------
 ## 🛠 Languages and Tools
+----
 📖 I have been learning and exploring these following tools and languages
 
 <div align="center">
@@ -53,6 +53,23 @@
     <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" alt="go" width="40" height="40"/></a></code>
     <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 </div>
+
+## 📊 Stats
+----
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+
+<!-- GitHub Activity Graph -->
+[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
 
 ----
 
