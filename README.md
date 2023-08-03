@@ -26,8 +26,8 @@
 -------
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 👀 I’m interested in Computer Science 0️⃣ 1️⃣ 💻, Programming 👨‍💻, and Boxing 🥊
-- 🌱 I’m currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- ✊ I strive to land a software engineering job in the UAE 🇦🇪 or UK 🇬🇧
+- 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
+- ✊ Strive to land a software engineering job in the UAE or UK
 - 😃 My personal website: https://sites.google.com/view/hongbo-wei
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - 🎮 The game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
