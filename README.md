@@ -115,10 +115,10 @@
     <p align="center">
       <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
     </p>
-    <!-- GitHub Activity Graph -->
   </div>
 </details>
 
+<!-- GitHub Activity Graph -->
 [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
 
 ## <h3>🏆 GitHub Trophies
@@ -130,7 +130,7 @@
 ![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
 
 <!---
-Champ-Wei/Champ-Wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
