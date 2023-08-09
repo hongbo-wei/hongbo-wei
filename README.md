@@ -31,7 +31,7 @@
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - ✊ Strive to secure a position as a software engineer job
 - 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
-- 📫 Email: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
+- 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
 
 ![workflow](https://github.com/hongbo-wei/Hongbo-First-Webpage/actions/workflows/test.yml/badge.svg)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
