@@ -90,6 +90,9 @@
 <!-- GitHub Activity Graph -->
 [![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ----
 
 ![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
