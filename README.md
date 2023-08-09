@@ -35,6 +35,7 @@
 - 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight 🐉
 - 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/Hongbo-First-Webpage/actions/workflows/test.yml/badge.svg)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1036571138131775498)
@@ -42,7 +43,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1036571138131775498)](https://dev.discordprofiles.me/openspotify/1036571138131775498)
 
 ## 🛠 Skill Set and Toolkits
-----
+
 📖 I have been learning and exploring these following frameworks, libraries, operating systems, and programming languages.
 
 <div align="center">
@@ -102,30 +103,31 @@
     <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
 </div>
 
-## 📊 Stats
 ----
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
+<details>
+	<summary><h3>📊 Stats</h3></summary>
+  <div>
+    <p align="center">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+    </p>
+    <p align="center">
+      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+    </p>
+    <!-- GitHub Activity Graph -->
+  </div>
+</details>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
+[![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
-
-<!-- GitHub Activity Graph -->
-[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## <h3>🏆 GitHub Trophies
+    
+![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ----
 
 ![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
-
 
 <!---
 Champ-Wei/Champ-Wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
