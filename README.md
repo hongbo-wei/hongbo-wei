@@ -77,7 +77,6 @@
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a></code>
     <code><a href="https://stackoverflow.com/" title="Stack Overflow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="stackoverflow" width="40" height="40"/></a></code>
-    <code><a href="https://www.wechat.com/" title="WeChat" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/wechat.svg" alt="wechat" width="40" height="40"/></a></code>
 </div>
 
 ## 📊 Stats
