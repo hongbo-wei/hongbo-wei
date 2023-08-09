@@ -39,9 +39,9 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1036571138131775498)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1036571138131775498)](https://dev.discordprofiles.me/openspotify/1036571138131775498)
 
-## 🛠 Languages and Tools
+## 🛠 Skill Set and Toolkits
 ----
-📖 I have been learning and exploring these following languages and tools
+📖 I have been learning and exploring these following frameworks, libraries, operating systems, and programming languages.
 
 <div align="center">
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
