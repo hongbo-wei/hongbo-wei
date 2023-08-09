@@ -35,7 +35,7 @@
 
 ## 🛠 Languages and Tools
 ----
-📖 I have been learning and exploring these following tools and languages
+📖 I have been learning and exploring these following languages and tools
 
 <div align="center">
     <code><a href="http://cppreference.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
