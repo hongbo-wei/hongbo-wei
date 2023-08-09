@@ -33,6 +33,12 @@
 - 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
 - 📫 Email: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
 
+![workflow](https://github.com/hongbo-wei/Hongbo-First-Webpage/actions/workflows/test.yml/badge.svg)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1036571138131775498)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1036571138131775498)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1036571138131775498)](https://dev.discordprofiles.me/openspotify/1036571138131775498)
+
 ## 🛠 Languages and Tools
 ----
 📖 I have been learning and exploring these following languages and tools
@@ -46,6 +52,7 @@
     <code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/></a></code>
     <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code>
     <code><a href="https://numpy.org/" title="NumPy" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/></a></code>
+    <code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code>
     <code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
     <code><a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></code>
     <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>
