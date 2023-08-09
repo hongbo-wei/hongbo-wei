@@ -108,18 +108,16 @@
 <details>
 	<summary><h3>📊 GitHub Stats ⚡</h3></summary>
     <p align="center">
-		
+
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+		<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
     </p>
-    <!-- <p align="center">
-		<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-    </p> -->
-	<!-- LeetCode Stats Card -->
 	<p align="center">
-	  <a href="https://leetcode.com/hongbo-wei" target="_blank">
-	    <img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-	  </a>
+ 		<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-weu&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
+   		<!-- LeetCode Stats Card -->
+   		<a href="https://leetcode.com/hongbo-wei" target="_blank">
+	    	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+	 	</a>
 	</p>
 	
   <!-- GitHub Activity Graph -->
