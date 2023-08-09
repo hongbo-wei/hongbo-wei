@@ -1,4 +1,4 @@
-## <img src="./templates/images/waving-hand.webp" width="2%"> Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊
+## <div align="center"><img src="./templates/images/waving-hand.webp" width="2%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
 
 ![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/assets/112866063/8435ed26-b571-48f1-b237-e4406e561d95)
@@ -107,18 +107,18 @@
 
 <details>
 	<summary><h3>📊 GitHub Stats ⚡</h3></summary>
-    <p align="center">
+    <div align="center">
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 		<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-    </p>
-	<p align="center">
+    </div>
+	<div align="center">
  		<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-weu&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
    		<!-- LeetCode Stats Card -->
-   		<a href="https://leetcode.com/hongbo-wei" target="_blank">
+   		<!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	    	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-	 	</a>
-	</p>
+	 	</a> -->
+	</div>
 	
   <!-- GitHub Activity Graph -->
   [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
