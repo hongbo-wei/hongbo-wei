@@ -106,20 +106,27 @@
 ----
 
 <details>
-	<summary><h3>📊 Stats</h3></summary>
-  <div>
+	<summary><h3>📊 GitHub Stats ⚡</h3></summary>
     <p align="center">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+		
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
     </p>
-    <p align="center">
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-    </p>
-  </div>
+    <!-- <p align="center">
+		<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hongbo-wei&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+    </p> -->
+	<!-- LeetCode Stats Card -->
+	<p align="center">
+	  <a href="https://leetcode.com/hongbo-wei" target="_blank">
+	    <img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+	  </a>
+	</p>
+	
+  <!-- GitHub Activity Graph -->
+  [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
 </details>
 
-<!-- GitHub Activity Graph -->
-[![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=rogue)](https://github.com/hongbo-wei/github-readme-activity-graph)
+
 
 ## <h3>🏆 GitHub Trophies
     
