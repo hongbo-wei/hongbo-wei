@@ -1,3 +1,6 @@
+## 👋 Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊
+
+
 ![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/assets/112866063/8435ed26-b571-48f1-b237-e4406e561d95)
 
 <!-- The social media badges -->
@@ -25,13 +28,12 @@
 
 -------
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
-- 👀 I’m interested in Computer Science 0️⃣ 1️⃣ 💻, Programming 👨‍💻, and Boxing 🥊
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- 😃 My personal website: https://sites.google.com/view/hongbo-wei
+- 😃 My personal website: https://sites.google.com/view/hongbo-wei 👀
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
-- ✊ Strive to secure a position as a software engineer job
-- 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight
-- 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/
+- ✊ Strive to secure a position as a software engineer job 👨‍💻
+- 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight 🐉
+- 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![workflow](https://github.com/hongbo-wei/Hongbo-First-Webpage/actions/workflows/test.yml/badge.svg)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
