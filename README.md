@@ -1,6 +1,5 @@
 ## <div align="center"><img src="./templates/images/waving-hand.webp" width="2%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
-
 ![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/assets/112866063/8435ed26-b571-48f1-b237-e4406e561d95)
 
 <!-- The social media badges -->
@@ -26,13 +25,14 @@
   </a>
 </div>
 
--------
+---
+
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- 😃 My personal website: https://sites.google.com/view/hongbo-wei 👀
+- 😃 My personal website: https://hongbo-wei.github.io/index.html | https://sites.google.com/view/hongbo-wei 👀
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - ✊ Strive to secure a position as a software engineer job 👨‍💻
-- 🎮 A 2D game I made on MIT Scratch https://scratch.mit.edu/projects/839093065/ Black Dragon and Brave Knight 🐉
+- 🎮 My 2D game on MIT Scratch: Black Dragon and Brave Knight 🐉 https://scratch.mit.edu/projects/839093065/
 - 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
@@ -103,34 +103,34 @@
     <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
 </div>
 
-----
+---
 
 <details>
 	<summary><h3>📊 GitHub Stats ⚡</h3></summary>
     <div align="center">
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-		<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
-    </div>
-	<div align="center">
- 		<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
-   		<!-- LeetCode Stats Card -->
-   		<!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+</div>
+<div align="center">
+<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
+<!-- LeetCode Stats Card -->
+<!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	    	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
 	 	</a> -->
-	</div>
-	
+</div>
+
   <!-- GitHub Activity Graph -->
-  [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph)
+
+[![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph)
+
 </details>
 
-
-
 ## <h3>🏆 GitHub Trophies
-    
+
 ![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-----
+---
 
 ![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
 
@@ -138,4 +138,3 @@
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
