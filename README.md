@@ -5,7 +5,7 @@
 
 <!-- The social media badges -->
 <div align="center">
-  <a href="https://instagram.com/hong.bo_wei" target="blank">
+  <a href="https://instagram.com/hongbo.thedragon.wei" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hongbo instagram account" height="35" width="40" />
   </a>
 
