@@ -29,7 +29,7 @@
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- 😃 My personal website: https://hongbo-wei.github.io/index.html | https://sites.google.com/view/hongbo-wei 👀
+- 😃 My personal website: https://hongbo-wei.github.io/index.html 👀 https://sites.google.com/view/hongbo-wei 🗺️
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - ✊ Strive to secure a position as a software engineer job 👨‍💻
 - 🎮 My 2D game on MIT Scratch: Black Dragon and Brave Knight 🐉 https://scratch.mit.edu/projects/839093065/
@@ -111,6 +111,7 @@
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+
 </div>
 <div align="center">
 <a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
