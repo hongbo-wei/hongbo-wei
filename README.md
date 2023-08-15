@@ -1,6 +1,6 @@
 ## <div align="center"><img src="./templates/images/waving-hand.webp" width="3%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
-![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/assets/112866063/8435ed26-b571-48f1-b237-e4406e561d95)
+![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/images/winning.jpg)
 
 <!-- The social media badges -->
 <div align="center">
@@ -25,16 +25,15 @@
   </a>
 </div>
 
-----
+---
+
 ![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
-- 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
+- 🌱 Currently developing CS50 final project
 - 😁 My personal website: https://hongbo-wei.github.io 👀 https://sites.google.com/view/hongbo-wei 🗺️
-- 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - ✊ Strive to secure a position as a software engineer 👨‍💻
-- 🎮 My 2D game on MIT Scratch: Black Dragon and Brave Knight 🐉 https://scratch.mit.edu/projects/839093065/
 - 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
@@ -57,7 +56,7 @@
 	    <code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a></code>
 	    <code><a href="https://stackoverflow.com/" title="Stack Overflow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="stackoverflow" width="40" height="40"/></a></code>
 	</div>
-<!-- 	<div align="center">
+<!-- 	<div>
 	    <code><a href="https://kernel.org/" title="Linux" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/></a></code>
 	    <code><a href="https://www.apple.com/macos/ventura/" title="macOS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg" alt="macos" width="40" height="40"/></a></code>
 	    <code><a href="https://www.microsoft.com/en-us/windows" title="Windows" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="windows" width="40" height="40"/></a></code>
@@ -98,7 +97,6 @@
 	</div>
 </div>
 
-
 ## 📊 GitHub Stats ⚡
 
 <details>
@@ -128,10 +126,6 @@
 ## <h3>🏆 GitHub Trophies
 
 ![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-![Culture_Matrix_Code_corridor](https://user-images.githubusercontent.com/112866063/236608955-b46f3e94-ed3d-4b56-a7e7-6b04f25a3db9.jpeg)
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
