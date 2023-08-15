@@ -26,6 +26,8 @@
 </div>
 
 ---
+![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
+[![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
