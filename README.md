@@ -29,18 +29,18 @@
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- 😃 My personal website: https://hongbo-wei.github.io/index.html 👀 https://sites.google.com/view/hongbo-wei 🗺️
+- 😁 My personal website: https://hongbo-wei.github.io/index.html 👀 https://sites.google.com/view/hongbo-wei 🗺️
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
-- ✊ Strive to secure a position as a software engineer job 👨‍💻
+- ✊ Strive to secure a position as a software engineer 👨‍💻
 - 🎮 My 2D game on MIT Scratch: Black Dragon and Brave Knight 🐉 https://scratch.mit.edu/projects/839093065/
 - 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1036571138131775498)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1036571138131775498)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1036571138131775498)](https://dev.discordprofiles.me/openspotify/1036571138131775498)
+![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/1036571138131775498)
+![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498)
+[![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498)
 
 ## 🛠 Skill Set and Toolkits
 
