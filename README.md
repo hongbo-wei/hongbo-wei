@@ -36,7 +36,7 @@
 - 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
-![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/status.yml/badge.svg)
+![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/static.yml/badge.svg)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1036571138131775498?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1036571138131775498)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1036571138131775498)
