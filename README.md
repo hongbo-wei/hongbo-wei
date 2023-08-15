@@ -1,6 +1,6 @@
-## <div align="center"><img src="./templates/images/waving-hand.webp" width="3%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
+## <div align="center"><img src="./images/waving-hand.webp" width="3%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
-![Hongbo Wei](https://github.com/hongbo-wei/hongbo-wei/images/winning.jpg)
+![Hongbo Wei](./images/winning.jpg)
 
 <!-- The social media badges -->
 <div align="center">
@@ -31,10 +31,9 @@
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
-- 🌱 Currently developing CS50 final project
+- 🌱 Currently working on CS50 final project
 - 😁 My personal website: https://hongbo-wei.github.io 👀 https://sites.google.com/view/hongbo-wei 🗺️
-- ✊ Strive to secure a position as a software engineer 👨‍💻
-- 📫 Contact me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
+- 📫 Reach me: hongbowei.bruce@gmail.com | LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
