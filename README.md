@@ -37,7 +37,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
-![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/1036571138131775498)
 ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498)
 [![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498)
