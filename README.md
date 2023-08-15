@@ -31,7 +31,7 @@
 
 - 👋 Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - 🌱 Currently developing Web Apps, and Data Visualization with Web Scraping 🐍
-- 😁 My personal website: https://hongbo-wei.github.io/index.html 👀 https://sites.google.com/view/hongbo-wei 🗺️
+- 😁 My personal website: https://hongbo-wei.github.io 👀 https://sites.google.com/view/hongbo-wei 🗺️
 - 🧰 Project Management: Flowchart, Pseudocode, Unified Modeling Language (UML)
 - ✊ Strive to secure a position as a software engineer 👨‍💻
 - 🎮 My 2D game on MIT Scratch: Black Dragon and Brave Knight 🐉 https://scratch.mit.edu/projects/839093065/
