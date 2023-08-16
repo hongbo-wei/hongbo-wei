@@ -45,20 +45,18 @@
 📖 I have been learning and exploring these following frameworks, libraries, operating systems, and programming languages.
 
 <div align="center">
-	<div>
-	    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-	</div>
-	<div>
+	<!-- <div>
 	    <code><a href="https://discord.com/" title="Discord" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="discord" width="40" height="40"/></a></code>
 	    <code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a></code>
 	    <code><a href="https://stackoverflow.com/" title="Stack Overflow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="stackoverflow" width="40" height="40"/></a></code>
-	</div>
-<!-- 	<div>
+	</div> -->
+	<!-- <div>
 	    <code><a href="https://kernel.org/" title="Linux" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/></a></code>
 	    <code><a href="https://www.apple.com/macos/ventura/" title="macOS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg" alt="macos" width="40" height="40"/></a></code>
 	    <code><a href="https://www.microsoft.com/en-us/windows" title="Windows" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="windows" width="40" height="40"/></a></code>
 	</div> -->
 	<div>
+		<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 	    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
 	    <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="parcharm" width="40" height="40"/></a></code>
 	    <code><a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a></code>
