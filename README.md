@@ -20,7 +20,7 @@
     <img align="center" src="./images/twitter-x.svg" alt="twitter account" height="50" width="40" />
   </a>
   
-  <a href="https://www.youtube.com/@hongbo_wei" target="blank">
+  <a href="https://www.youtube.com/@hongbo-wei" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="35" width="40" />
   </a>
 </div>
