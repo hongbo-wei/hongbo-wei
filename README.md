@@ -1,4 +1,4 @@
-## <div align="center"><img src="./images/waving-hand.webp" width="3%">Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
+## <div align="center">👋 Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
 ![Hongbo Wei](./images/winning.jpg)
 
