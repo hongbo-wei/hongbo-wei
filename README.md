@@ -31,7 +31,7 @@
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 - Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
-- Currently working on CS50 final project 🌱 🧠 🦾 🤖
+- I made it, CS50 final project: BoxingHub https://www.youtube.com/watch?v=9yuzUpK1MCM 🧠
 - Personal website: https://hongbo-wei.github.io 🏔️ https://sites.google.com/view/hongbo-wei 🌊
 - Reach me: hongbowei.bruce@gmail.com 📫 LinkedIn: https://www.linkedin.com/in/hongbo-wei/ 💼
 
