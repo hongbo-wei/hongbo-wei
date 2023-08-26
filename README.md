@@ -42,7 +42,7 @@
 
 ## 🛠 Skill Set and Toolkits
 
-📖 I have been learning and exploring these following frameworks, libraries, operating systems, and programming languages.
+📖 I have been learning and exploring these following frameworks, libraries, and programming languages.
 
 <div align="center">
 	<!-- <div>
