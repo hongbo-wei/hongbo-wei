@@ -104,7 +104,7 @@
 </div>
 <div align="center">
 
-<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
+<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark-blue&hide_border=false&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
 
 <!-- LeetCode Stats Card -->
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
