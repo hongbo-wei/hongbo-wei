@@ -120,7 +120,7 @@
 
 ## <h3>🏆 GitHub Trophies
 
-![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
