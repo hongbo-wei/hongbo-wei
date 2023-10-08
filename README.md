@@ -95,7 +95,7 @@
 ## 📊 GitHub Stats ⚡
 
 <details>
-	<summary><h3>👉 Click Me 👈</h3></summary>
+	<summary>👉 Click Me 👈</summary>
     <div align="center">
     
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
