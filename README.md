@@ -30,9 +30,9 @@
 ![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
-- Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
+- Hi, I’m Hongbo Wei: a technophile and lifelong learner 📖
 - BoxingHub: https://hongbowei.pythonanywhere.com/ 🧠 https://www.youtube.com/watch?v=9yuzUpK1MCM 📹
-- Personal websites: https://hongbo-wei.github.io 🏔️ https://sites.google.com/view/hongbo-wei 🌊
+- Portfolio websites: https://hongbo-wei.github.io 🏔️ https://sites.google.com/view/hongbo-wei 🌊
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
