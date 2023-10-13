@@ -33,7 +33,6 @@
 - Hi, I’m @Hongbo-Wei: a highly self-motivated lifelong learner 📖
 - BoxingHub: https://hongbowei.pythonanywhere.com/ 🧠 https://www.youtube.com/watch?v=9yuzUpK1MCM 📹
 - Personal websites: https://hongbo-wei.github.io 🏔️ https://sites.google.com/view/hongbo-wei 🌊
-- Reach me: hongbowei.bruce@gmail.com 📫
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
