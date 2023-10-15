@@ -2,8 +2,6 @@
 
 <!-- ![Hongbo Wei](./images/winning.jpg) -->
 
----
-
 ![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
