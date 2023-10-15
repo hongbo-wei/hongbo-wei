@@ -1,6 +1,6 @@
 ## <div align="center">👋 Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
 
-![Hongbo Wei](./images/winning.jpg)
+<!-- ![Hongbo Wei](./images/winning.jpg) -->
 
 <!-- The social media badges -->
 <div align="center">
