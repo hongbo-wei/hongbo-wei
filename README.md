@@ -28,6 +28,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="tumblr blog account" height="30" width="40" />
   </a> -->
 
+  <a href="https://stackoverflow.com/users/20146886/hongbo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
+  </a>
+
   <a href="https://twitter.com/hongbo_wei" target="blank">
     <img align="center" src="./images/twitter-x.svg" alt="twitter account" height="50" width="40" />
   </a>
