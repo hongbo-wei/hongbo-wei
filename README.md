@@ -64,13 +64,13 @@
 	    <code><a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/></a></code>
 	</div>
 	<div>
-	    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
 	    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
 	    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
 	    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+		<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
+		<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 		<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
 	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
-		<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 	</div>
 	<div>
 		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/></a></code>
