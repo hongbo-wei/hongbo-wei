@@ -6,9 +6,9 @@
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 - Hi, I’m Hongbo Wei: a technophile and lifelong learner 📖
-- BoxingHub: https://www.boxinghub.org/ 🥊 https://hongbowei.pythonanywhere.com/ 🧠
-- Intro to BoxingHub: https://www.youtube.com/watch?v=9yuzUpK1MCM 📹
-- Portfolio websites: https://hongbo-wei.github.io 🏔️ https://sites.google.com/view/hongbo-wei 🌊
+- Personal Project - BoxingHub: [boxinghub.org](https://www.boxinghub.org/) 🥊 [Introduction to BoxingHub - YouTube](https://www.youtube.com/watch?v=9yuzUpK1MCM) 📹 [Backup URL](https://hongbowei.pythonanywhere.com/) 🧠
+- Personal Project - 2D Games: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲 [Alien Invasion](https://replit.com/@hongbo-wei/alien-invasion) 👽
+- Portfolio websites: [Software Engineer - Hongbo We](https://hongbo-wei.github.io) 🏔️ [Google Sites](https://sites.google.com/view/hongbo-wei) 🌊
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
