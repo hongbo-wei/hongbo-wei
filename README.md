@@ -17,27 +17,30 @@
 
 <!-- The social media badges -->
 <div align="center">
-  <a href="https://instagram.com/hongbo.thedragon.wei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="35" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/hongbo-wei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
-  </a>
-  <!-- <a href="https://www.tumblr.com/hongbo-wei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="tumblr blog account" height="30" width="40" />
-  </a> -->
-  <a href="https://stackoverflow.com/users/20146886/hongbo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.tiktok.com/@hongbo.thedragon.wei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Tik%20Tok.svg" alt="tiktok" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/hongbo_wei" target="blank">
-    <img align="center" src="./images/twitter-x.svg" alt="twitter account" height="50" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@hongbo-wei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="35" width="40" />
-  </a>
+	<a href="https://www.coursera.org/learner/hongbo-wei" target="blank">
+    	<img align="center" src="https://raw.githubusercontent.com/hongbo-wei/clean-and-analyze-social-media-usage-data-with-python/main/coursera.svg" alt="coursera profile" height="40" width="40" />
+	</a>
+	<a href="https://instagram.com/hongbo.thedragon.wei" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="35" width="40" />
+	</a>
+	<a href="https://linkedin.com/in/hongbo-wei" target="blank">
+    	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
+	</a>
+	<!-- <a href="https://www.tumblr.com/hongbo-wei" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="tumblr blog account" height="30" width="40" />
+	</a> -->
+	<a href="https://stackoverflow.com/users/20146886/hongbo" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
+	</a>
+	<a href="https://www.tiktok.com/@hongbo.thedragon.wei" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Tik%20Tok.svg" alt="tiktok" height="30" width="40" />
+	</a>
+	<a href="https://twitter.com/hongbo_wei" target="blank">
+		<img align="center" src="./images/twitter-x.svg" alt="twitter account" height="50" width="40" />
+	</a>
+	<a href="https://www.youtube.com/@hongbo-wei" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="35" width="40" />
+	</a>
 </div>
 
 ## 🛠 Skill Set and Toolkits
