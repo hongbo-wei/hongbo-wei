@@ -6,7 +6,7 @@
 - Hi, I’m Hongbo Wei: a technophile and lifelong learner 📖
 - Project: [BoxingHub](https://www.boxinghub.org/) 🥊 [Introduction to BoxingHub](https://www.youtube.com/watch?v=9yuzUpK1MCM) 📹 [Backup URL](https://hongbowei.pythonanywhere.com/) 🧠
 - 2D Games: [Alien Invasion](https://replit.com/@hongbo-wei/alien-invasion) 👽 [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲
-- Web Portfolio: [Google Sites](https://sites.google.com/view/hongbo-wei) 🏔️ [GitHub.io](https://hongbo-wei.github.io) 🌊
+- Web Portfolio: [GitHub.io](https://hongbo-wei.github.io) 🏔️ [Google Sites](https://sites.google.com/view/hongbo-wei) 🌊
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
