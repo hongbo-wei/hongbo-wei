@@ -79,6 +79,7 @@
 		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/></a></code>
 	    <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code>
 	    <code><a href="https://numpy.org/" title="NumPy" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/></a></code>
+		<code><a href="https://opencv.org/" title="OpenCV" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="opencv" width="40" height="40"/></a></code>
 	    <code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code>
 	    <code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
 		<code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>  
