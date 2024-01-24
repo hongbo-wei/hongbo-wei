@@ -116,6 +116,8 @@
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	    	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
 	 	</a> -->
+
+<a href="#">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
 </div>
 
   <!-- GitHub Activity Graph -->
