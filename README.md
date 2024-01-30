@@ -1,4 +1,4 @@
-## <div align="center">👋 Hi there, I'm Hongbo Wei, a software engineer 👨‍💻 who loves boxing 🥊</div>
+## <div align="center">👋 Hi there, I'm Hongbo Wei, an experience MSc AI and Computer Science Student 👨‍💻 at the university of Birmingham Dubai</div>
 
 ![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
