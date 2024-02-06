@@ -10,10 +10,11 @@ Hongbo Wei is a technophile and lifelong learner 📖
 ![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
+![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
-![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
 ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498)
-[![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498)
+![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
+<!-- [![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498) -->
 
 <!-- The social media badges -->
 <div align="center">
