@@ -1,14 +1,14 @@
 ## <div align="center">👋 Hi there, I'm Hongbo Wei.<br>A motivated MSc Student in AI and Computer Science 👨‍💻 at the University of Birmingham Dubai</div>
 
-![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
-[![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
-
 ```
 Hongbo Wei is a technophile and lifelong learner 📖
 ```
-- [x] Project: [BoxingHub](https://www.boxinghub.org/) 🥊 [Introduction to BoxingHub](https://www.youtube.com/watch?v=9yuzUpK1MCM) 📹 [Backup URL](https://hongbowei.pythonanywhere.com/) 🧠
+- [x] Project: [BoxingHub](https://www.boxinghub.org/) 🥊 [Introduction to BoxingHub](https://www.youtube.com/watch?v=9yuzUpK1MCM) 📹
 - [x] 2D Games: [Alien Invasion](https://replit.com/@hongbo-wei/alien-invasion) 👽 [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲
-- [x] Web Portfolio: [GitHub.io](https://hongbo-wei.github.io) 🏔️ [Google Sites](https://sites.google.com/view/hongbo-wei) 🌊
+- [x] Web Portfolio: [GitHub.io](https://hongbo-wei.github.io) 🌐
+
+![](https://dcbadge.vercel.app/api/shield/1036571138131775498)
+[![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
