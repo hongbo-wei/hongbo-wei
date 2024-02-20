@@ -95,8 +95,8 @@ Hongbo Wei is a technophile and lifelong learner 📖
 		<code><a href="https://dotnet.microsoft.com/en-us/languages/csharp/" title="C#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code>
 	    <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="go" width="40" height="40"/></a></code>
 	    <code><a href="https://www.java.com/en/" title="Java" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="go" width="40" height="40"/></a></code>
-	    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-		<code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
+	    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/></a></code>
+		<code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/></a></code>
 		<code><a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></code>
 	    <code><a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a></code>
 	</div>
