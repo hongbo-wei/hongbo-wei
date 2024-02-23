@@ -62,7 +62,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	<div>
 		<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 		<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
+		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="git" width="40" height="40"/></a></code>
 		<!-- <code><a href="https://colab.google/" title="Google Colab" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" alt="git" width="65" height="40"/></a></code> -->
 	    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
 	    <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="parcharm" width="40" height="40"/></a></code>
@@ -72,7 +72,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	<div>
 	    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
 	    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
-	    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+	    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/></a></code>
 		<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
 		<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 		<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
