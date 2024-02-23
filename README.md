@@ -62,7 +62,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	<div>
 		<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 		<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="git" width="40" height="40"/></a></code>
+		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
 		<!-- <code><a href="https://colab.google/" title="Google Colab" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" alt="git" width="65" height="40"/></a></code> -->
 	    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
 	    <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="parcharm" width="40" height="40"/></a></code>
@@ -79,7 +79,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
 	</div>
 	<div>
-		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/></a></code>
+		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a></code>
 	    <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code>
 		<code><a href="https://matplotlib.org/" title="Matplotlib" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/></a></code>
 	    <code><a href="https://numpy.org/" title="NumPy" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/></a></code>
