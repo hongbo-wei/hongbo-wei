@@ -3,7 +3,7 @@
 ```
 Hongbo Wei is a technophile and lifelong learner 📖
 ```
-- [ ] MSc: Distinction
+- [ ] MSc: Distinction (on my way to get it!)
 - [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
 - [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲 [BoxingHub](https://www.boxinghub.org/) 🥊
 
