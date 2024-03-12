@@ -60,6 +60,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	    <code><a href="https://www.microsoft.com/en-us/windows" title="Windows" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="windows" width="40" height="40"/></a></code>
 	</div> -->
 	<div>
+		<code><a href="https://aws.amazon.com/" title="Amazon AWS" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a></code>
 		<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 		<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
@@ -75,8 +76,8 @@ Hongbo Wei is a technophile and lifelong learner 📖
 	    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/></a></code>
 		<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
 		<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
-		<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
-	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
+		<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
+	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="typescript" width="40" height="40"/></a></code>
 	</div>
 	<div>
 		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a></code>
@@ -86,6 +87,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 		<code><a href="https://opencv.org/" title="OpenCV" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="opencv" width="40" height="40"/></a></code>
 	    <code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code>
 	    <code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
+		<code><a href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks." title="RESTful API" target="_blank"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restful" width="40" height="40"/></a></code>
 		<code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>  
 	    <code><a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></code>
 	</div>
