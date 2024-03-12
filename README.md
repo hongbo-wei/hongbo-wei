@@ -77,7 +77,7 @@ Hongbo Wei is a technophile and lifelong learner 📖
 		<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
 		<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 		<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
-	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="typescript" width="40" height="40"/></a></code>
+	    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="40" height="40"/></a></code>
 	</div>
 	<div>
 		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a></code>
