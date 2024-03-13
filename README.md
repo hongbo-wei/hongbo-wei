@@ -1,7 +1,7 @@
 ## <div align="center">👋 Hi there, I'm Hongbo Wei.<br>A motivated MSc Student in AI and Computer Science 👨‍💻 at the University of Birmingham Dubai</div>
 
 ```
-Hongbo Wei is a technophile and lifelong learner 📖
+Hongbo is a technophile and lifelong learner 📖
 ```
 - [ ] MSc: Distinction (on my way to get it!)
 - [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
