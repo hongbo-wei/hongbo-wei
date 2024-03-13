@@ -140,3 +140,5 @@ Hongbo Wei is a technophile and lifelong learner 📖
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- In memory of the legendary Chinese man - Bruce Lee 李小龍 -->
