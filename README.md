@@ -18,9 +18,6 @@ Hongbo is a technophile and lifelong learner 📖
 
 <!-- The social media badges -->
 <div align="center">
-	<a href="https://www.coursera.org/learner/hongbo-wei" target="blank">
-    	<img align="center" src="https://raw.githubusercontent.com/hongbo-wei/clean-and-analyze-social-media-usage-data-with-python/main/coursera.svg" alt="coursera profile" height="30" width="40" />
-	</a>
 	<a href="https://instagram.com/hongbo.thedragon.wei" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
 	</a>
