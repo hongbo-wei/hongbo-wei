@@ -1,9 +1,9 @@
-## <div align="center">👋 Hi there, I'm Hongbo Wei.<br>A motivated MSc Student in AI and Computer Science 👨‍💻 at the University of Birmingham Dubai</div>
+## <div align="center">👋 Hi there, I'm pursuing an MSc degree in </br> AI and Computer Science 🧠 at the University of Birmingham Dubai</div>
 
 ```
 Hongbo is a technophile and lifelong learner 📖
 ```
-- [ ] MSc: Distinction (on my way to get it!)
+- [ ] MSc: Distinction (on my way to get it!) 🎓
 - [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
 - [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲 [BoxingHub](https://www.boxinghub.org/) 🥊
 
