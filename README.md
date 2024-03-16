@@ -63,8 +63,8 @@ Hongbo is a technophile and lifelong learner 📖
 		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
 		<!-- <code><a href="https://colab.google/" title="Google Colab" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" alt="git" width="65" height="40"/></a></code> -->
 	    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
-	    <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="parcharm" width="40" height="40"/></a></code>
-	    <code><a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a></code>
+	    <!-- <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="pycharm" width="40" height="40"/></a></code>
+	    <code><a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a></code> -->
 	    <code><a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/></a></code>
 	</div>
 	<div>
