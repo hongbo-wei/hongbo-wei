@@ -5,7 +5,7 @@ Hongbo is a technophile and lifelong learner 📖
 ```
 - [ ] MSc: Distinction (on my way to get it!) 🎓
 - [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
-- [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐲 [BoxingHub](https://www.boxinghub.org/) 🥊
+- [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐉 [BoxingHub](https://www.boxinghub.org/) 🥊
 
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
 [![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
