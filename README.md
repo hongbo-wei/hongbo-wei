@@ -58,6 +58,7 @@ Hongbo is a technophile and lifelong learner 📖
 	</div> -->
 	<div>
 		<code><a href="https://aws.amazon.com/" title="Amazon AWS" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a></code>
+		<code><a href="https://azure.microsoft.com/" title="Microsoft Azure" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></a></code>
 		<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 		<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 		<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
