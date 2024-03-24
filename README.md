@@ -79,14 +79,14 @@ Hongbo is a technophile and lifelong learner 📖
 	</div>
 	<div>
 		<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a></code>
-	    <!-- <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code> -->
+	    <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code>
 		<code><a href="https://matplotlib.org/" title="Matplotlib" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/></a></code>
 	    <code><a href="https://numpy.org/" title="NumPy" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/></a></code>
 		<code><a href="https://opencv.org/" title="OpenCV" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="opencv" width="40" height="40"/></a></code>
 	    <code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code>
 	    <code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
 		<code><a href="https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks." title="RESTful API" target="_blank"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restful" width="40" height="40"/></a></code>
-		<!-- <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>   -->
+		<code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>  
 	    <code><a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></code>
 	</div>
 	<div>
