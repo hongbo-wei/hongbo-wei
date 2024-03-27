@@ -18,8 +18,8 @@ Hongbo is a technophile and lifelong learner 📖
 
 <!-- The social media badges -->
 <div align="center">
-	<a href="https://instagram.com/hongbo.thedragon.wei" target="_blank" rel="noopener noreferrer">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
+	<a href="https://instagram.com/hongbo.thedragon.wei" target="_blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
 	</a>
 	<a href="https://linkedin.com/in/hongbo-wei" target="_blank">
     	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
