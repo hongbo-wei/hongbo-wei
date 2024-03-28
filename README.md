@@ -17,29 +17,30 @@ Hongbo is a technophile and lifelong learner 📖
 <!-- [![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498) -->
 
 <!-- The social media badges -->
-<p align="center">
-	<a href="https://instagram.com/hongbo.thedragon.wei" target="_blank">
+<div align="center">
+	<a href="https://instagram.com/hongbo.thedragon.wei" style="text-decoration: none;">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
 	</a>
-	<a href="https://linkedin.com/in/hongbo-wei" target="_blank">
+	<a href="https://linkedin.com/in/hongbo-wei" style="text-decoration: none;">
     	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
 	</a>
 	<!-- <a href="https://www.tumblr.com/hongbo-wei" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="tumblr blog account" height="30" width="40" />
 	</a> -->
-	<a href="https://stackoverflow.com/users/20146886/hongbo" target="_blank">
+	<a href="https://stackoverflow.com/users/20146886/hongbo" style="text-decoration: none;">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
 	</a>
-	<a href="https://www.tiktok.com/@hongbo.thedragon.wei" target="_blank">
+	<a href="https://www.tiktok.com/@hongbo.thedragon.wei" style="text-decoration: none;">
 		<img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Tik%20Tok.svg" alt="tiktok" height="30" width="40" />
 	</a>
-	<a href="https://twitter.com/hongbo_wei" target="_blank">
+	<a href="https://twitter.com/hongbo_wei" style="text-decoration: none;">
 		<img align="center" src="./images/twitter-x.svg" alt="twitter account" height="40" width="40" />
 	</a>
-	<a href="https://www.youtube.com/@hongbo-wei" target="_blank">
+	<a href="https://www.youtube.com/@hongbo-wei" style="text-decoration: none;">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="30" width="40" />
 	</a>
-</p>
+</div>
+
 
 ## 🛠 Skill Set and Toolkits
 
@@ -102,6 +103,7 @@ Hongbo is a technophile and lifelong learner 📖
 	</div>
 </div>
 
+
 ## 📊 GitHub Stats ⚡
 
 <details>
@@ -129,6 +131,7 @@ Hongbo is a technophile and lifelong learner 📖
 <!-- [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph) -->
 
 </details>
+
 
 ## <h3>🏆 GitHub Trophies
 
