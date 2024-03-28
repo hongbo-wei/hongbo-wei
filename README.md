@@ -18,26 +18,26 @@ Hongbo is a technophile and lifelong learner 📖
 
 <!-- The social media badges -->
 <div align="center">
-	<a href="https://instagram.com/hongbo.thedragon.wei" target="_blank" style="text-decoration: none; margin: 0; padding: 0;">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
+	<a href="https://instagram.com/hongbo.thedragon.wei" target="_blank">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
 	</a>
-	<a href="https://linkedin.com/in/hongbo-wei" target="_blank" style="text-decoration: none; margin: 0; padding: 0;">
-    	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
+	<a href="https://linkedin.com/in/hongbo-wei" target="_blank">
+    	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
 	</a>
-	<!-- <a href="https://www.tumblr.com/hongbo-wei" target="blank">
+	<!-- <a href="https://www.tumblr.com/hongbo-wei" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="tumblr blog account" height="30" width="40" />
 	</a> -->
-	<a href="https://stackoverflow.com/users/20146886/hongbo" target="blank" style="text-decoration: none; margin: 0; padding: 0;">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
+	<a href="https://stackoverflow.com/users/20146886/hongbo" target="_blank">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
 	</a>
-	<a href="https://www.tiktok.com/@hongbo.thedragon.wei" target="blank" style="text-decoration: none; margin: 0; padding: 0;">
-		<img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Tik%20Tok.svg" alt="tiktok" height="30" width="40" />
+	<a href="https://www.tiktok.com/@hongbo.thedragon.wei" target="_blank">
+		<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Tik%20Tok.svg" alt="tiktok" height="30" width="40" />
 	</a>
-	<a href="https://twitter.com/hongbo_wei" target="blank" style="text-decoration: none; margin: 0; padding: 0;">
-		<img align="center" src="./images/twitter-x.svg" alt="twitter account" height="40" width="40" />
+	<a href="https://twitter.com/hongbo_wei" target="_blank">
+		<img src="./images/twitter-x.svg" alt="twitter account" height="40" width="40" />
 	</a>
-	<a href="https://www.youtube.com/@hongbo-wei" target="blank" style="text-decoration: none; margin: 0; padding: 0;">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="30" width="40" />
+	<a href="https://www.youtube.com/@hongbo-wei" target="_blank">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="30" width="40" />
 	</a>
 </div>
 
