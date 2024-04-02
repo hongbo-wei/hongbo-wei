@@ -111,13 +111,6 @@ Hongbo is a technophile and lifelong learner 📖
 
 ## 📊 GitHub Stats ⚡
 <!-- GitHub Stats -->
-<div align="center">
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
-
-</div>
-
 <details class="GitHub Stats">
 	<summary><span style="font-size: 1.2em;">👉 Click Me 👈</span></summary>
 
@@ -136,6 +129,13 @@ Hongbo is a technophile and lifelong learner 📖
 <!-- GitHub Activity Graph -->
 <!-- [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph) -->
 </details>
+
+<div align="center">
+
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+
+</div>
 
 
 ## <h3>🏆 GitHub Trophies
