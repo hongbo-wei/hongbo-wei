@@ -110,20 +110,19 @@ Hongbo is a technophile and lifelong learner 📖
 
 
 ## 📊 GitHub Stats ⚡
-
-<details class="GitHub Stats">
-	<summary><span style="font-size: 1.2em;">👉 Click Me 👈</span></summary>
-
 <!-- GitHub Stats -->
 <div align="center">
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 
-
 </div>
 
+<details class="GitHub Stats">
+	<summary><span style="font-size: 1.2em;">👉 Click Me 👈</span></summary>
+
 <div align="center">
+
 
 <a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</a>
 <a href="https://leetcode.com/hongbo-wei">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
