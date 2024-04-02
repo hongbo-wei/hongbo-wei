@@ -121,6 +121,11 @@ Hongbo is a technophile and lifelong learner 📖
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 
+</div>
+
+
+<div align="center">
+
 <a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
 
 <!-- LeetCode Stats Card -->
@@ -145,7 +150,7 @@ Hongbo is a technophile and lifelong learner 📖
 ---
 <footer class="Good bye">
 	<div align="center">
-		<blockquote style="color: #00FF00;">"Goodbye: Not forever, just for now."</blockquote>
+		<p style="color: #00FF00;">"Goodbye: Not forever, just for now."</p>
 	</div>
 </footer>
 
