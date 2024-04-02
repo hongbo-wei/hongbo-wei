@@ -39,6 +39,11 @@ Hongbo is a technophile and lifelong learner 📖
 	<a href="https://www.youtube.com/@hongbo-wei" style="text-decoration: none;">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube account" height="30" width="40" />
 	</a>
+	<img src="https://eu-assets.simpleview-europe.com/birmingham-visit/imageresizer/?image=%2Fdbimgs%2FBirmingham1.jpg&action=FeaturedItemsScrollNew3x2" alt="Image Map" usemap="#map">
+	<map name="map">
+		<area shape="rect" coords="0,0,50,50" href="www.boxinghub.org" alt="Page 1">
+		<area shape="circle" coords="100,100,50" href="hongbo-wei.githob.com" alt="Page 2">
+	</map>
 </div>
 
 
