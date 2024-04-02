@@ -44,7 +44,7 @@ Hongbo is a technophile and lifelong learner 📖
 	</div>
 <section>
 
-![Welcome](ttps://github.com/boxinghub/boxinghub/blob/main/static/images/backgrounds/cool-horizontal.jpg?raw=true)
+<!-- ![BoxingHub](https://github.com/boxinghub/boxinghub/blob/main/static/images/backgrounds/cool-horizontal.jpg?raw=true) -->
 
 ## 🛠 Skill Set and Toolkits
 
@@ -118,24 +118,20 @@ Hongbo is a technophile and lifelong learner 📖
 <div align="center">
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+
 
 </div>
 
-
 <div align="center">
 
-<a href="#">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true&layout=compact&mode=weeklycustom_title=streak-stats)](https://git.io/streak-stats)</a>
+<a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</a>
+<a href="https://leetcode.com/hongbo-wei">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
 
 <!-- LeetCode Stats Card -->
-
-<a href="#">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
-
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
 </a> -->
-
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -145,14 +141,7 @@ Hongbo is a technophile and lifelong learner 📖
 
 ## <h3>🏆 GitHub Trophies
 
-![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
----
-<footer class="Good bye">
-	<div align="center">
-		<p style="color: #00FF00;">"Goodbye: Not forever, just for now."</p>
-	</div>
-</footer>
+![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1)
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
