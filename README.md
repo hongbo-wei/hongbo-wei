@@ -8,9 +8,10 @@ Hongbo is a technophile and lifelong learner 📖
 - [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
 - [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐉 [BoxingHub](https://www.boxinghub.org/) 🥊
 
-<!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
-[![](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
+[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
+<!-- Status for Discord -->
+<!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
 ![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498)
@@ -147,7 +148,7 @@ Hongbo is a technophile and lifelong learner 📖
 
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?/top-langs/username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
   <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true">
 </picture>
 </a>
