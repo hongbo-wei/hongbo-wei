@@ -52,11 +52,6 @@ Hongbo is a technophile and lifelong learner 📖
 <main class="skills">
 	<div align="center">
 		<!-- <div>
-			<code><a href="https://discord.com/" title="Discord" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="discord" width="40" height="40"/></a></code>
-			<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a></code>
-			<code><a href="https://stackoverflow.com/" title="Stack Overflow" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="stackoverflow" width="40" height="40"/></a></code>
-		</div> -->
-		<!-- <div>
 			<code><a href="https://kernel.org/" title="Linux" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/></a></code>
 			<code><a href="https://www.apple.com/macos/ventura/" title="macOS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg" alt="macos" width="40" height="40"/></a></code>
 			<code><a href="https://www.microsoft.com/en-us/windows" title="Windows" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="windows" width="40" height="40"/></a></code>
@@ -117,20 +112,8 @@ Hongbo is a technophile and lifelong learner 📖
 <div align="center">
 
 <!-- Status change according to the color of GitHub Theme mode -->
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true">
-  <img alt="Shows Hongbo's GitHub Streak." src="https://streak-stats.demolab.com?user=hongbo-wei&theme=default&hide_border=true">
-</picture>
-</a>
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/hongbo-wei">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/hongbo-wei">
-  <img alt="Shows Hongbo's Leetcode Stats." src="https://leetcard.jacoblin.cool/hongbo-wei">
-</picture>
-</a>
+<a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</a>
+<a href="https://leetcode.com/hongbo-wei">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
 
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
@@ -143,19 +126,8 @@ Hongbo is a technophile and lifelong learner 📖
 
 <div align="center">
 
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&layout=compact&line_height=20&hide_border=true">
-  <img alt="Shows Hongbo's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=default&layout=compact&line_height=20&hide_border=true">
-</picture>
-</a>
-
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?/top-langs/username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
-  <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true">
-</picture>
-</a>
+<a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</a>
+<a href="https://leetcode.com/hongbo-wei">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
 
 </div>
 
