@@ -116,11 +116,22 @@ Hongbo is a technophile and lifelong learner 📖
 
 <div align="center">
 
-
-<a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</a>
-<a href="https://leetcode.com/hongbo-wei">[![Leetcode Stats](https://leetcard.jacoblin.cool/hongbo-wei)](https://leetcode.com/hongbo-wei)</a>
+<!-- Status change according to the color of GitHub Theme mode -->
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true">
+  <img alt="Shows Hongbo's GitHub Streak." src="https://streak-stats.demolab.com?user=hongbo-wei&theme=default&hide_border=true">
+</picture>
+</a>
 
 <!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/hongbo-wei">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/hongbo-wei">
+  <img alt="Shows Hongbo's Leetcode Stats." src="https://leetcard.jacoblin.cool/hongbo-wei">
+</picture>
+</a>
+
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
 </a> -->
@@ -132,15 +143,31 @@ Hongbo is a technophile and lifelong learner 📖
 
 <div align="center">
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&layout=compact&line_height=20&hide_border=true">
+  <img alt="Shows Hongbo's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=default&layout=compact&line_height=20&hide_border=true">
+</picture>
+</a>
+
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?/top-langs/username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
+  <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true">
+</picture>
+</a>
 
 </div>
 
 
 ## <h3>🏆 GitHub Trophies
 
-![Hongbo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1)
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
+  <img alt="Shows Hongbo's GitHub Trophies." src="https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=default&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
+</picture>
+</a>
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
