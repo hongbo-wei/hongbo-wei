@@ -4,9 +4,8 @@
 ```
 Hongbo is a technophile and lifelong learner 📖
 ```
+- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io) 🌐
 - [ ] MSc: Distinction (on my way to get it!) 🎓
-- [x] Portfolio: [GitHub Hongbo](https://hongbo-wei.github.io) 🌐
-- [x] Showcases: [Black Dragon ang Brave Knight](https://scratch.mit.edu/projects/839093065/) 🐉 [BoxingHub](https://www.boxinghub.org/) 🥊
 
 [![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
 
