@@ -7,8 +7,6 @@ Hongbo is a technophile and lifelong learner 📖
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io) 🌐
 - [ ] MSc: Distinction (on my way to get it!) 🎓
 
-[![BoxingHub on Discord](https://dcbadge.vercel.app/api/server/mqCVcUAyN9)](https://discord.gg/mqCVcUAyN9)
-
 <!-- Status for Discord -->
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
 ![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
