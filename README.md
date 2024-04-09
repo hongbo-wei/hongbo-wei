@@ -1,11 +1,11 @@
-<!-- In memory of the legendary Chinese man - Bruce Lee 李小龍 -->
+<!-- In memory of the legendary Chinese Kung Fu master - Bruce Lee 李小龍 🐉 -->
 
 # <div align="center">![Welcome](images/welcome.gif)</div>
 ```
-Hongbo is a technophile and lifelong learner 📖
+Hongbo is a technophile and lifelong learner
 ```
-- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io) 🌐
-- [ ] MSc: Distinction (on my way to get it!) 🎓
+- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
+- [ ] MSc: Distinction Candidate
 
 <!-- Status for Discord -->
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
@@ -49,11 +49,6 @@ Hongbo is a technophile and lifelong learner 📖
 📖 I have been learning and exploring these following frameworks, libraries, and programming languages.
 <main class="skills">
 	<div align="center">
-		<!-- <div>
-			<code><a href="https://kernel.org/" title="Linux" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/></a></code>
-			<code><a href="https://www.apple.com/macos/ventura/" title="macOS" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg" alt="macos" width="40" height="40"/></a></code>
-			<code><a href="https://www.microsoft.com/en-us/windows" title="Windows" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="windows" width="40" height="40"/></a></code>
-		</div> -->
 		<div>
 			<code><a href="https://aws.amazon.com/" title="Amazon AWS" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a></code>
 			<code><a href="https://azure.microsoft.com/" title="Microsoft Azure" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></a></code>
@@ -62,6 +57,7 @@ Hongbo is a technophile and lifelong learner 📖
 			<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="git" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://colab.google/" title="Google Colab" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" alt="git" width="65" height="40"/></a></code> -->
 			<code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+			<code><a href="https://kernel.org/" title="Linux" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://www.jetbrains.com/pycharm/" title="Pycharm" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="pycharm" width="40" height="40"/></a></code>
 			<code><a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a></code> -->
 			<code><a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/></a></code>
