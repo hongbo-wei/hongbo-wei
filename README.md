@@ -45,6 +45,7 @@ Hongbo is a technophile and lifelong learner
 <!-- ![BoxingHub](https://github.com/boxinghub/boxinghub/blob/main/static/images/backgrounds/cool-horizontal.jpg?raw=true) -->
 
 ## 🛠 Skill Set and Toolkits
+<!-- Add Unity and Unreal Engine -->
 
 📖 I have been learning and exploring these following frameworks, libraries, and programming languages.
 <main class="skills">
@@ -142,7 +143,7 @@ Hongbo is a technophile and lifelong learner
 <a href="#">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
-  <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true">
+  <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
 </picture>
 </a>
 
