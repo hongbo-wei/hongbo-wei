@@ -142,7 +142,7 @@ Hongbo is a technophile and lifelong learner
 
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook">
   <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
 </picture>
 </a>
