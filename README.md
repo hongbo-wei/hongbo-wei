@@ -5,8 +5,9 @@
 Hongbo is a technophile and lifelong learner
 ```
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
-- [ ] MSc: Distinction Candidate
 - [x] [Intel® OpenVINO](https://github.com/openvinotoolkit/openvino) Contributor
+- [ ] MSc: Distinction Candidate
+
 
 <!-- Status for Discord -->
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
