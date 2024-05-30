@@ -84,7 +84,7 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://opencv.org/" title="OpenCV" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/opencv.svg" alt="opencv" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code> -->
 			<code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
-			<!-- <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code> -->
+			<code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code>
 			<code><a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></code>
 		</div>
 		<div>
