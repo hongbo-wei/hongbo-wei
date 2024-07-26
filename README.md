@@ -100,6 +100,7 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/></a></code>
 			<code><a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a></code> -->
+			<code><a href="https://redis.io/" title="Redis" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="redis" width="40" height="40"/></a></code>
 			<code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="swift" width="40" height="40"/></a></code>
 		</div>
 	</div>
