@@ -167,6 +167,16 @@ Hongbo is a technophile and lifelong learner
 </picture>
 </a>
 
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_timeline.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+[![Issue status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_issues.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/issues)
+[![Pull request status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_prs.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/pulls)
+[![Trending topics](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_words.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+[![Top contributors](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_users.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/graphs/contributors)
+[![Activity map](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_map.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+
+
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
