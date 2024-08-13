@@ -5,12 +5,13 @@
 Hongbo is a technophile and lifelong learner
 ```
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
-- [x] [Intel® OpenVINO](https://github.com/openvinotoolkit/openvino) Contributor
+- [x] [Intel® OpenVINO](https://github.com/openvinotoolkit/openvino) Open Source Contributor
 - [x] MSc: Distinction Candidate
-- [x] AWS Cloud Practitioner
-- [ ] AWS Solutions Architect Associate
-- [ ] AWS Certified DevOps Engineer
-- [x] ♥ [Sponsor](https://github.com/sponsors/hongbo-wei) ♡
+- [x] AWS Cloud Practitioner - Foundational
+- [ ] AWS Certified Solutions Architect - Associate
+- [ ] AWS Certified DevOps Engineer - Professional
+- [ ] AWS Certified Machine Learning - Specialty
+- [x] ♥ [Sponsor Hongbo](https://github.com/sponsors/hongbo-wei) ♡
 
 
 <!-- Status for Discord -->
