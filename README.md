@@ -59,11 +59,6 @@ Hongbo is a technophile and lifelong learner
 <main class="skills">
 	<div align="center">
 		<div>
-			<code><a href="https://www.apple.com/ios" title="iOS" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ios.svg" alt="ios" width="40" height="40"/></a></code>
-			<code><a href="https://developer.apple.com/swift" title="Swift" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="swift" width="40" height="40"/></a></code>
-			<code><a href="https://reactnative.dev" title="React Native" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a></code>
-		</div>
-		<div>
 			<code><a href="https://aws.amazon.com/" title="Amazon AWS" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a></code>
 			<code><a href="https://azure.microsoft.com/" title="Microsoft Azure" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></a></code>
 			<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
@@ -82,10 +77,12 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
 			<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
 			<code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/></a></code>
+			<code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a></code>
 			<code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
 			<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 			<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
-			<code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a></code>
+			<code><a href="https://reactnative.dev" title="React Native" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a></code>
+			<code><a href="https://developer.apple.com/swift" title="Swift" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="swift" width="40" height="40"/></a></code>
 			<code><a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/></a></code>
 			<code><a href="https://vuejs.org/" title="VUE 3" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="vue 3" width="40" height="40"/></a></code>
 		</div>
