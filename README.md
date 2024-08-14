@@ -55,6 +55,7 @@ Hongbo is a technophile and lifelong learner
 <!-- Add Unity and Unreal Engine -->
 
 📖 I have been learning and exploring these following frameworks, libraries, and programming languages.
+<!-- [Skill icons](https://github.com/tandpfun/skill-icons) -->
 <main class="skills">
 	<div align="center">
 		<div>
@@ -85,6 +86,8 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 			<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
 			<code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a></code>
+			<code><a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/></a></code>
+			<code><a href="https://vuejs.org/" title="VUE 3" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="vue 3" width="40" height="40"/></a></code>
 		</div>
 		<div>
 			<code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a></code>
