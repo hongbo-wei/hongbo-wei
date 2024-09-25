@@ -60,6 +60,7 @@ Hongbo is a technophile and lifelong learner
 	<div align="center">
 		<div>
 			<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
+			<code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></code>
 			<code><a href="https://www.jenkins.io/" title="Jenkins" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="jenins" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/></a></code> -->
 		</div>
