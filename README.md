@@ -188,6 +188,7 @@ Hongbo is a technophile and lifelong learner
 [![Trending topics](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_words.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
 [![Top contributors](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_users.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/graphs/contributors) -->
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YgWdHCkJi9jii45ReF_lG6XfjkX6EY71WmJlCaYnpMs"></script>
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
