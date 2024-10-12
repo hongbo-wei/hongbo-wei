@@ -147,28 +147,24 @@ Hongbo is a technophile and lifelong learner
 </a> -->
 </div>
 
+<div align="center">
+	<a href="#">
+	<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&layout=compact&line_height=20&hide_border=true">
+	<img alt="Shows Hongbo's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=default&layout=compact&line_height=20&hide_border=true">
+	</picture>
+	</a>
+	<a href="#">
+	<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook">
+	<img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
+	</picture>
+	</a>
+</div>
+
 <!-- GitHub Activity Graph -->
 <!-- [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph) -->
 </details>
-
-<div align="center">
-
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&layout=compact&line_height=20&hide_border=true">
-  <img alt="Shows Hongbo's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=default&layout=compact&line_height=20&hide_border=true">
-</picture>
-</a>
-
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=github_dark&layout=compact&hide_border=true&hide=jupyter%20notebook">
-  <img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
-</picture>
-</a>
-
-</div>
-
 
 ## <h3>🏆 GitHub Trophies
 
