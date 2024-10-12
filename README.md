@@ -92,13 +92,13 @@ Hongbo is a technophile and lifelong learner
 		<div>
 			<code><a href="http://cppreference.com/" title="C" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
 			<code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-			<code><a href="https://dotnet.microsoft.com/en-us/languages/csharp/" title="C#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code>
-			<code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="go" width="40" height="40"/></a></code>
-			<code><a href="https://www.java.com/en/" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a></code>
+			<!-- <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp/" title="C#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code> -->
+			<!-- <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="go" width="40" height="40"/></a></code> -->
+			<!-- <code><a href="https://www.java.com/en/" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a></code> -->
 			<code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/></a></code>
 			<code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/></a></code>
 			<code><a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></code>
-			<code><a href="https://redis.io/" title="Redis" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="redis" width="40" height="40"/></a></code>
+			<!-- <code><a href="https://redis.io/" title="Redis" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="redis" width="40" height="40"/></a></code> -->
 			<code><a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a></code>
 		</div>
 		<div>
