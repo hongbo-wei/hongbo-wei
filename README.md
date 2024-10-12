@@ -162,6 +162,14 @@ Hongbo is a technophile and lifelong learner
 	</a>
 </div>
 
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_badge.svg)](https://repography.com)
+[![Issue status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_issues.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/issues)
+[![Activity map](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_map.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+<!-- [![Timeline graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_timeline.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits) -->
+<!-- [![Pull request status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_prs.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/pulls)
+[![Trending topics](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_words.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+[![Top contributors](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_users.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/graphs/contributors) -->
+
 <!-- GitHub Activity Graph -->
 <!-- [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph) -->
 </details>
@@ -174,15 +182,6 @@ Hongbo is a technophile and lifelong learner
   <img alt="Shows Hongbo's GitHub Trophies." src="https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=default&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
 </picture>
 </a>
-
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_badge.svg)](https://repography.com)
-[![Issue status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_issues.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/issues)
-[![Activity map](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_map.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
-<!-- [![Timeline graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_timeline.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits) -->
-<!-- [![Pull request status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_prs.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/pulls)
-[![Trending topics](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_words.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
-[![Top contributors](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_users.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/graphs/contributors) -->
 
 <!---
 hongbo-wei/hongbo-wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
