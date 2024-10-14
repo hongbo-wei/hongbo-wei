@@ -9,10 +9,9 @@ Hongbo is a technophile and lifelong learner
 - [x] MSc: Distinction Candidate
 - [x] AWS Cloud Practitioner - Foundational
 - [ ] AWS Certified Solutions Architect - Associate
-- [ ] AWS Certified DevOps Engineer - Professional
-- [ ] AWS Certified Machine Learning - Specialty
 - [x] ♥ [Sponsor Hongbo](https://github.com/sponsors/hongbo-wei) ♡
-
+<!-- - [ ] AWS Certified DevOps Engineer - Professional -->
+<!-- - [ ] AWS Certified Machine Learning - Specialty -->
 
 <!-- Status for Discord -->
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
