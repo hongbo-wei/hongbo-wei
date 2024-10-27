@@ -67,7 +67,8 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
 			<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
 			<code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/></a></code>
-			<code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a></code>
+			<code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="40" height="40"/></a></code>
+			<!-- https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg -->
 			<!-- <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code> -->
 			<code><a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40"/></a></code>
 			<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
