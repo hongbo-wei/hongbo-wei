@@ -74,7 +74,7 @@ Hongbo is a technophile and lifelong learner
 			<code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/></a></code>
 			<code><a href="https://vuejs.org/" title="VUE 3" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="vue 3" width="40" height="40"/></a></code> -->
-			<code><a href="https://reactnative.dev" title="React Native" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a></code>
+			<!-- <code><a href="https://reactnative.dev" title="React Native" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a></code> -->
 			<!-- <code><a href="https://developer.apple.com/swift" title="Swift" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="swift" width="40" height="40"/></a></code> -->
 		</div>
 		<div>
@@ -83,7 +83,6 @@ Hongbo is a technophile and lifelong learner
 			<!-- <code><a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/></a></code> -->
 			<!-- <code><a href="https://matplotlib.org/" title="Matplotlib" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/></a></code> -->
 			<code><a href="https://numpy.org/" title="NumPy" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/></a></code>
-			<code><a href="https://opencv.org/" title="OpenCV" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/opencv.svg" alt="opencv" width="40" height="40"/></a></code>
 			<code><a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/></a></code>
 			<code><a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://www.selenium.dev/" title="Selenium" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="selenium" width="40" height="40"/></a></code> -->
@@ -103,7 +102,7 @@ Hongbo is a technophile and lifelong learner
 		</div>
 		<div>
 			<code><a href="https://aws.amazon.com/" title="Amazon AWS" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a></code>
-			<code><a href="https://azure.microsoft.com/" title="Microsoft Azure" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></a></code>
+			<!-- <code><a href="https://azure.microsoft.com/" title="Microsoft Azure" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></a></code> -->
 			<code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 			<code><a href="https://github.com/" title="GitHub" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="40" height="40"/></a></code>
 			<code><a href="https://gitlab.com/" title="GitLab" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" alt="gitlab" width="40" height="40"/></a></code>
