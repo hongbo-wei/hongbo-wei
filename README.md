@@ -2,7 +2,7 @@
 
 # <div align="center">![Welcome](images/welcome.gif)</div>
 ```
-Hongbo is a technophile and lifelong learner
+Lifelong learning
 ```
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
@@ -17,8 +17,8 @@ Hongbo is a technophile and lifelong learner
 <!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
 ![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
-<!-- ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498) -->
 ![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
+<!-- ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498) -->
 <!-- [![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498) -->
 
 <!-- The social media badges -->
