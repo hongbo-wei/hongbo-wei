@@ -6,7 +6,7 @@ Lifelong learning
 ```
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
-- [x] ♥ [Sponsor Hongbo](https://github.com/sponsors/hongbo-wei) ♡
+- [x] ♥ [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei) ♡
 <!-- - [x] MSc: Distinction Candidate -->
 <!-- - [x] AWS Cloud Practitioner - Foundational -->
 <!-- - [ ] AWS Certified Solutions Architect - Associate -->
