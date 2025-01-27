@@ -127,12 +127,12 @@ Lifelong learning
 <div align="center">
 
 <!-- Status change according to the color of GitHub Theme mode -->
-<a href="#">
+<!-- <a href="#">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hongbo-wei&theme=github-dark-blue&hide_border=true">
   <img alt="Shows Hongbo's GitHub Streak." src="https://streak-stats.demolab.com?user=hongbo-wei&theme=default&hide_border=true">
 </picture>
-</a>
+</a> -->
 
 <!-- LeetCode Stats Card -->
 <a href="https://leetcode.com/hongbo-wei">
