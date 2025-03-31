@@ -124,8 +124,7 @@ Lifelong learning
 <details class="GitHub Stats">
 	<summary><span style="font-size: 1.2em;">👉 Click Me 👈</span></summary>
 
-<div align="center">
-
+<!-- <div align="center"> -->
 <!-- Status change according to the color of GitHub Theme mode -->
 <!-- <a href="#">
 <picture>
@@ -135,19 +134,19 @@ Lifelong learning
 </a> -->
 
 <!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/hongbo-wei">
+<!-- <a href="https://leetcode.com/hongbo-wei">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/hongbo-wei">
   <img alt="Shows Hongbo's Leetcode Stats." src="https://leetcard.jacoblin.cool/hongbo-wei">
 </picture>
-</a>
+</a> -->
 
 <!-- <a href="https://leetcode.com/hongbo-wei" target="_blank">
 	<img width=40% src="https://leetcode.card.workers.dev/?username=hongbo-wei&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
 </a> -->
-</div>
+<!-- </div> -->
 
-<div align="center">
+<!-- <div align="center">
 	<a href="#">
 	<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hongbo-wei&theme=github_dark&layout=compact&line_height=20&hide_border=true">
@@ -160,11 +159,11 @@ Lifelong learning
 	<img alt="Shows Hongbo's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongbo-wei&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
 	</picture>
 	</a>
-</div>
+</div> -->
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_badge.svg)](https://repography.com)
+<!-- ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_badge.svg)](https://repography.com)
 [![Issue status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_issues.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/issues)
-[![Activity map](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_map.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
+[![Activity map](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_map.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits) -->
 <!-- [![Timeline graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_timeline.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits) -->
 <!-- [![Pull request status graph](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_prs.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/pulls)
 [![Trending topics](https://images.repography.com/49512983/hongbo-wei/hongbo-wei.github.io/recent-activity/QtyrUy_rbrZZJy-AGIDDoxTo27sKbX5iB1sI3GbPPr8/nFfJpU8ft6FgbocwMadO9nrrGVFK3Dz74sTEp07r5Lc_words.svg)](https://github.com/hongbo-wei/hongbo-wei.github.io/commits)
