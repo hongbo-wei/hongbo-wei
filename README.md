@@ -7,19 +7,6 @@ Lifelong learning
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
 - [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
-<!-- - [x] MSc: Distinction Candidate -->
-<!-- - [x] AWS Cloud Practitioner - Foundational -->
-<!-- - [ ] AWS Certified Solutions Architect - Associate -->
-<!-- - [ ] AWS Certified DevOps Engineer - Professional -->
-<!-- - [ ] AWS Certified Machine Learning - Specialty -->
-
-<!-- Status for Discord -->
-<!-- ![](https://dcbadge.vercel.app/api/shield/1036571138131775498) -->
-![status](https://api.statusbadges.me/badge/status/1036571138131775498?simple=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
-![workflow](https://github.com/hongbo-wei/hongbo-wei.github.io/actions/workflows/hello-world.yml/badge.svg)
-<!-- ![vscode](https://api.statusbadges.me/badge/vscode/1036571138131775498) -->
-<!-- [![spotify](https://api.statusbadges.me/badge/spotify/1036571138131775498)](https://api.statusbadges.me/openspotify/1036571138131775498) -->
 
 <!-- The social media badges -->
 <section class="social media">
