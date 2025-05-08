@@ -17,7 +17,7 @@ Lifelong learning
 		<a href="https://linkedin.com/in/hongbo-wei" style="text-decoration: none;">
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
 		</a>
-		</a> -->
+		</a>
 		<a href="https://stackoverflow.com/users/20146886/hongbo" style="text-decoration: none;">
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
 		</a>
