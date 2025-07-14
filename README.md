@@ -97,10 +97,7 @@ Lifelong learning
 	</div>
 </main>
 
-## 👁️ Profile Views
-<div align="center">
-	<img src="https://profile-counter.glitch.me/hongbo-wei/count.svg" alt="Profile Views" />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/hongbo-wei/count.svg)
 
 ## 📊 GitHub Stats ⚡
 <!-- GitHub Stats -->
