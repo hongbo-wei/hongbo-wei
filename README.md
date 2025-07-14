@@ -97,7 +97,7 @@ Lifelong learning
 	</div>
 </main>
 
-![Visitor Count](https://profile-counter.glitch.me/hongbo-wei/count.svg)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge)
 
 ## 📊 GitHub Stats ⚡
 <!-- GitHub Stats -->
