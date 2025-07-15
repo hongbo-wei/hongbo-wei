@@ -4,6 +4,15 @@
 ```
 Lifelong learning
 ```
+
+## 👋 About Me
+
+Passionate developer and lifelong learner exploring AI/ML technologies. Open source contributor with a focus on Intel® OpenVINO. Inspired by Bruce Lee's philosophy - "Be water" 🥋
+
+---
+
+## 🚀 Featured Work
+
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
 - [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
@@ -17,7 +26,6 @@ Lifelong learning
 		<a href="https://linkedin.com/in/hongbo-wei" style="text-decoration: none;">
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin account" height="30" width="40" />
 		</a>
-		</a>
 		<a href="https://stackoverflow.com/users/20146886/hongbo" style="text-decoration: none;">
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
 		</a>
@@ -25,7 +33,7 @@ Lifelong learning
 			<img align="center" src="./images/twitter-x.svg" alt="x" height="40" width="40" />
 		</a>
 	</div>
-<section>
+</section>
 
 <!-- ![BoxingHub](https://github.com/boxinghub/boxinghub/blob/main/static/images/backgrounds/cool-horizontal.jpg?raw=true) -->
 
@@ -152,7 +160,7 @@ Lifelong learning
 <!-- GitHub Activity Graph -->
 <!-- [![Hongbo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hongbo-wei&theme=github-dark)](https://github.com/hongbo-wei/github-readme-activity-graph) -->
 
-## <h3>🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <a href="#">
 <picture>
