@@ -76,7 +76,7 @@ Passionate developer and lifelong learner exploring AI/ML technologies. Open sou
 			<code><a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></code>
 		</div>
 		<div>
-			<code><a href="http://cppreference.com/" title="C" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
+			<code><a href="http://cppreference.com/" title="C" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" alt="c" width="40" height="40"/></a></code>
 			<code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
 			<!-- <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp/" title="C#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code> -->
 			<!-- <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="go" width="40" height="40"/></a></code> -->
