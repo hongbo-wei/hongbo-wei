@@ -1,6 +1,5 @@
-<!-- In memory of the legendary Chinese Kung Fu master - Bruce Lee 李小龍 🐉 -->
-
 # <div align="center">![Welcome](images/welcome.gif)</div>
+
 ```
 Lifelong learning
 ```
@@ -9,6 +8,7 @@ Lifelong learning
 
 Passionate engineer and lifelong learner exploring AI/ML technologies. Open source contributor with a focus on Intel® OpenVINO. Inspired by Bruce Lee's philosophy - "Be water" 🥋
 
+<!-- In memory of the legendary Chinese Kung Fu master - Bruce Lee 李小龍 🐉 -->
 ---
 
 ## 🚀 Featured Work
@@ -47,8 +47,8 @@ Passionate engineer and lifelong learner exploring AI/ML technologies. Open sour
 		<div>
 			<code><a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 			<code><a href="https://github.com/features/actions" title="GitHub Actions" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" alt="github actions" width="40" height="40"/></a></code>
-			<!-- <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></code>
-			<code><a href="https://www.jenkins.io/" title="Jenkins" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="jenins" width="40" height="40"/></a></code> -->
+			<code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></code>
+			<!-- <code><a href="https://www.jenkins.io/" title="Jenkins" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="jenins" width="40" height="40"/></a></code> -->
 		</div>
 		<div>
 			<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
