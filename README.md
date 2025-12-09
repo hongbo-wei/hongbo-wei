@@ -6,9 +6,9 @@ Lifelong learning
 
 ## 👋 About Me
 
-Passionate engineer and lifelong learner exploring AI/ML technologies. Open source contributor with a focus on Intel® OpenVINO. Inspired by Bruce Lee's philosophy - "Be water" 🥋
+Passionate engineer and lifelong learner exploring AI/ML technologies. Inspired by Bruce Lee's philosophy - "Be water" 🥋
 
-<!-- In memory of the legendary Chinese Kung Fu master - Bruce Lee 李小龍 🐉 -->
+<!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
 ---
 
 ## 🚀 Featured Work
