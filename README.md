@@ -23,7 +23,7 @@ Passionate AI/ML engineer and lifelong learner. Inspired by Bruce Lee's philosop
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
 		</a>
 		<a href="https://x.com/hongbo_wei" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
-			<img align="center" src="./images/twitter-x.svg" alt="x" height="40" width="40" />
+			<img align="center" src="./images/x.svg" alt="x" height="40" width="40" />
 		</a>
 	</div>
 </section>
