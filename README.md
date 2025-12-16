@@ -8,7 +8,7 @@ Lifelong learning
 
 ## 👋 About Me
 
-Passionate engineer and lifelong learner exploring AI/ML technologies. Inspired by Bruce Lee's philosophy - "Be water" 🥋
+Passionate AI/ML engineer and lifelong learner. Inspired by Bruce Lee's philosophy - "Be water" 🥋
 <!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
 
 <section class="social media">
