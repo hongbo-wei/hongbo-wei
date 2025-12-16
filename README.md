@@ -10,13 +10,7 @@ Lifelong learning
 
 Passionate engineer and lifelong learner exploring AI/ML technologies. Inspired by Bruce Lee's philosophy - "Be water" 🥋
 <!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
----
 
-## 🚀 Featured Work
-
-- [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
-- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
-- [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
 <section class="social media">
 	<div align="center">
 		<a href="https://instagram.com/hongbo.bruce.wei" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
@@ -35,6 +29,12 @@ Passionate engineer and lifelong learner exploring AI/ML technologies. Inspired 
 </section>
 
 <!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge) -->
+
+## 🚀 Featured Work
+
+- [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
+- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
+- [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
 
 ## 🛠 Skill Set and Toolkits
 <main class="skills">
