@@ -15,9 +15,9 @@ Passionate engineer and lifelong learner exploring AI/ML technologies. Inspired 
 
 ## 🚀 Featured Work
 
+- [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
-- [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei)
 
 <!-- The social media badges -->
 <section class="social media">
