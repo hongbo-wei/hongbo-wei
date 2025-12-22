@@ -32,10 +32,10 @@ Passionate AI/ML engineer and lifelong learner. Inspired by Bruce Lee's philosop
 
 ## 🚀 Featured Work
 
-<!-- - [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei) --!>
-
 - [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
 - [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
+
+<!-- - [x] [Buy me a coffee ☕️](https://github.com/sponsors/hongbo-wei) --!>
 
 ## 🛠 Skill Set and Toolkits
 <main class="skills">
