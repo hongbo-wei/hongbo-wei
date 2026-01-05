@@ -3,12 +3,12 @@
 </div>
 
 ```
-Lifelong learning
+Lifelong learning | Web3 | AI/ML | Blockchain
 ```
 
 ## 👋 About Me
 
-AI/ML engineer ←→ lifelong learner. Inspired by Bruce Lee's philosophy, "Be water". 🥋
+Blockchain Engineer with AI/ML Background ←→ lifelong learner. Inspired by Bruce Lee's philosophy, "Be water". 🥋
 <!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
 
 <section class="social media">
