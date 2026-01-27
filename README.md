@@ -78,14 +78,14 @@ Blockchain Engineer with AI/ML Background ←→ lifelong learner. Inspired by B
 	</div>
 </main>
 
-## 🏆 GitHub Trophies ⚡
+<!-- ## 🏆 GitHub Trophies ⚡
 
 <details class="GitHub Stats">
 	<summary><span style="font-size: 1.2em;">👉 Click Me 👈</span></summary>
 	<a href="#">
 		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
-			<img alt="Shows Hongbo's GitHub Trophies." src="https://github-profile-trophy.vercel.app/?username=hongbo-wei&theme=default&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
+			<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-winning.vercel.app/?username=hongbo-wei&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
+			<img alt="Shows Hongbo's GitHub Trophies." src="https://github-profile-trophy-winning.vercel.app/?username=hongbo-wei&theme=default&no-frame=false&no-bg=false&margin-w=4&row=3&column=-1">
 		</picture>
 	</a>
-</details>
+</details> -->
