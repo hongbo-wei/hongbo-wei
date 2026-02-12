@@ -30,11 +30,6 @@ Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired 
 
 <!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge) -->
 
-## 🚀 Featured Work
-
-- [x] [Hongbo's Portfolio](https://hongbo-wei.github.io)
-- [x] [Intel® OpenVINO Open Source Contributor](https://github.com/openvinotoolkit/openvino/pull/23881)
-
 ## 🛠 Skill Set and Toolkits
 <main class="skills">
 	<div align="center">
