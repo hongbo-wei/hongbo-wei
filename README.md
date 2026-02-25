@@ -3,12 +3,12 @@
 </div>
 
 ```
-Lifelong learning | Web3 | AI/ML | Blockchain
+Lifelong learning | Web3 | AI/ML | Blockchain | Finance | Quantitative Research
 ```
 
-## 👋 About Me
+<!-- ## 👋 About Me
 
-Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired by Bruce Lee's philosophy, "Be water". 🥋
+Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired by Bruce Lee's philosophy, "Be water". 🥋 -->
 <!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
 
 <section class="social media">
