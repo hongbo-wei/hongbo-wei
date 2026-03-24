@@ -3,7 +3,7 @@
 </div>
 
 ```
-Lifelong learning | Web3 | AI/ML | Blockchain | Finance | Quantitative Research
+Lifelong learning | AI/ML | Blockchain | Quantitative Trading
 ```
 
 <!-- ## 👋 About Me
@@ -11,7 +11,7 @@ Lifelong learning | Web3 | AI/ML | Blockchain | Finance | Quantitative Research
 Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired by Bruce Lee's philosophy, "Be water". 🥋 -->
 <!-- In memory of the legendary Kung Fu master - Bruce Lee 李小龍 🐉 -->
 
-<section class="social media">
+<!-- <section class="social media">
 	<div align="center">
 		<a href="https://instagram.com/hongbo.bruce.wei" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram account" height="30" width="40" />
@@ -26,7 +26,7 @@ Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired 
 			<img align="center" src="./images/x.svg" alt="x" height="40" width="40" />
 		</a>
 	</div>
-</section>
+</section> -->
 
 <!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge) -->
 
