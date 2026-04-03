@@ -2,9 +2,9 @@
 	<img src="images/welcome.gif" alt="Welcome" />
 </div>
 
-```
+<!-- ```
 Lifelong learning | AI/ML | Blockchain | Quantitative Trading
-```
+``` -->
 
 <!-- ## 👋 About Me
 
@@ -28,7 +28,7 @@ Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired 
 	</div>
 </section> -->
 
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hongbo-wei.visitor-badge) -->
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mohammed-wei.visitor-badge) -->
 
 ## 🛠 Skill Set and Toolkits
 <main class="skills">
