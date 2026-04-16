@@ -33,9 +33,9 @@ Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired 
 ## 🛠 Skill Set and Toolkits
 
 <table align="center"><tr>
-<td align="center"><a href="https://www.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></td>
-<td align="center"><a href="https://github.com/features/actions" title="GitHub Actions" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" alt="github actions" width="40" height="40"/></a></td>
-<td align="center"><a href="https://kubernetes.io/" title="Kubernetes" target="_blank" rel="noopener noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
+<td align="center" colspan="2"><a href="https://www.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></td>
+<td align="center" colspan="2"><a href="https://github.com/features/actions" title="GitHub Actions" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" alt="github actions" width="40" height="40"/></a></td>
+<td align="center" colspan="2"><a href="https://kubernetes.io/" title="Kubernetes" target="_blank" rel="noopener noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
 </tr><tr>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></td>
