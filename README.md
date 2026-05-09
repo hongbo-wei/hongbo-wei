@@ -30,7 +30,7 @@ Quantitative Researcher with AI/ML Background ←→ lifelong learner. Inspired 
 
 <!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mohammed-wei.visitor-badge) -->
 
-## 🛠 Skill Set and Toolkits
+<!-- ## 🛠 Skill Set and Toolkits -->
 
 <table align="center"><tr>
 <td align="center" colspan="2"><a href="https://www.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></td>
